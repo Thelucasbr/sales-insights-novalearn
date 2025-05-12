@@ -16,6 +16,9 @@ The goal: identify the top-performing product, understand average sales, and vis
 ## Key Insight:
 Online courses generated the highest share of total sales, confirming strong demand for digital learning products.
 
+![sales_distribuition](https://github.com/user-attachments/assets/62924533-bf71-41a0-b6d5-310073061b5d)
+
+
 ## Technologies Used:
 - Python
 - Pandas
@@ -23,5 +26,5 @@ Online courses generated the highest share of total sales, confirming strong dem
 - Google Colab
 
 ## Files:
-- `sales_distribution.png![sell data](https://github.com/user-attachments/assets/2ec6e0d7-8c41-4731-a38b-21b2135d48f6)
-` – Chart image
+- `sales_analysis.ipynb` – Notebook with full analysis
+- `sales_distribution.png` – Chart image
